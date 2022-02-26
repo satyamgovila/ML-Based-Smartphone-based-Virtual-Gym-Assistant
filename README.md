@@ -10,16 +10,16 @@ The application is deployed on AWS EC2 instance and uses streamlit for integrati
 
     AWS EC2 instance used- Ubuntu Server 14.04 LTS (Free tier version)
 
-     ssh -i "streamlit.pem" ubuntu@ec2-3-14-151-6.us-east-2.compute.amazonaws.com
+        ssh -i "streamlit.pem" ubuntu@ec2-3-14-151-6.us-east-2.compute.amazonaws.com
     
     
-    git clone <repo link>
+        git clone <repo link>
   
-    cd <directory>
+        cd <directory>
   
 2. Running Streamlit web application
   
-    streamlit run app_deploy.py
+        streamlit run app_deploy.py
   
  
 **Command used to run application CLI mode:-
