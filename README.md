@@ -35,5 +35,11 @@ The application is deployed on AWS EC2 instance and uses streamlit for integrati
 **Command used to run application for voice recognition functionality
   
     python app_voice.py
+    
+** Web URL for Heroku Cloud Application
+
+    https://virtual-gym-assistant-1.herokuapp.com/
+
+
   
   
