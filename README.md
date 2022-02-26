@@ -20,6 +20,8 @@ The application is deployed on AWS EC2 instance and uses streamlit for integrati
 2. Running Streamlit web application
   
         streamlit run app_deploy.py
+        
+3. Access web application on local using External URL
   
  
 **Command used to run application CLI mode:-
