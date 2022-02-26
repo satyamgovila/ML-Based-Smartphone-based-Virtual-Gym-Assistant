@@ -10,7 +10,7 @@ The application is deployed on AWS EC2 instance and uses streamlit for integrati
 
     AWS EC2 instance used- Ubuntu Server 14.04 LTS (Free tier version)
 
-    ssh -i "streamlit.pem" ubuntu@ec2-3-14-151-6.us-east-2.compute.amazonaws.com
+     ssh -i "streamlit.pem" ubuntu@ec2-3-14-151-6.us-east-2.compute.amazonaws.com
     
     
     git clone <repo link>
@@ -34,6 +34,6 @@ The application is deployed on AWS EC2 instance and uses streamlit for integrati
 
 **Command used to run application for voice recognition functionality
   
-  python app_voice.py
+    python app_voice.py
   
   
